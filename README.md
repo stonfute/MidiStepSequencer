@@ -25,6 +25,7 @@ A simple 16 step midi step sequencer using arduino micro pro
  
  
  ## CAD
- 
+ ![cad](https://github.com/stonfute/MidiStepSequencer/raw/master/cad.PNG)
  
  ## Pinout
+![pin](https://github.com/stonfute/MidiStepSequencer/raw/master/pinout.png)
